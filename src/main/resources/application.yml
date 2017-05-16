@@ -1,0 +1,9 @@
+management:
+  security:
+    enabled: false
+
+# http://stackoverflow.com/questions/42010522/moving-to-spring-boot-1-5-1-and-oauth2-jwt-token-error-401-unauthorized
+security:
+  oauth2:
+    resource:
+      filter-order: 3
