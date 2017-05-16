@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.*;
 /**
  * Created by stevenrowney on 16/05/2017.
  */
-@CrossOrigin(origins = "http://localhost:8080")
 @RestController
 @RequestMapping("/pet")
 public class PetController {
