@@ -1,5 +1,11 @@
 # Pet Store Rest Service
 
+App deployed here:
+
+Front End - http://petshopapp.thebluecabrio.com/
+
+Back End - http://petshopapi.thebluecabrio.com/
+
 Requirements:
 - Java 8
 - Maven
